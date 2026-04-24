@@ -1,3 +1,4 @@
+# Gitignore for News Aggregator CLI
 venv/
 __pycache__/
 *.pyc
